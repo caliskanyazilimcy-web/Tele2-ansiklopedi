@@ -3,8 +3,16 @@
   "email": "siondevrimci33@gmail.com",
   "passwordHash": "d42ed19c0d9c80706b6b1484a97cf8634285d753ac079717aee8c651d54caef3",
   "kayitTarihi": "2026-04-15T19:49:33.652Z",
-  "yaziSayisi": 6,
+  "yaziSayisi": 7,
   "yazilar": [
+    {
+      "id": "1776370086090",
+      "title": "Neee",
+      "content": "<p><strong>vvvb</strong><strong style=\"background-color: rgb(0, 97, 0);\">gbb</strong></p>",
+      "plainContent": "vvvbgbb",
+      "date": "2026-04-16T20:08:06.090Z",
+      "dateStr": "16.04.2026 23:08:06"
+    },
     {
       "id": "1776368892108",
       "title": "Ne",
