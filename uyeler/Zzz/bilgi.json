@@ -3,5 +3,14 @@
   "email": "siondevrimci33@gmail.com",
   "passwordHash": "d42ed19c0d9c80706b6b1484a97cf8634285d753ac079717aee8c651d54caef3",
   "kayitTarihi": "2026-04-15T19:49:33.652Z",
-  "yaziSayisi": 8
+  "yaziSayisi": 1,
+  "yazilar": [
+    {
+      "id": "1776356665116",
+      "title": "Merhaba",
+      "content": "ZEkİ DEVRİM ÇALIŞKAN",
+      "date": "2026-04-16T16:24:25.116Z",
+      "dateStr": "16.04.2026 19:24:25"
+    }
+  ]
 }
