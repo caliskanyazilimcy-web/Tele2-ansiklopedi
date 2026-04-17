@@ -3,8 +3,16 @@
   "email": "siondevrimci33@gmail.com",
   "passwordHash": "d42ed19c0d9c80706b6b1484a97cf8634285d753ac079717aee8c651d54caef3",
   "kayitTarihi": "2026-04-15T19:49:33.652Z",
-  "yaziSayisi": 7,
+  "yaziSayisi": 8,
   "yazilar": [
+    {
+      "id": "1776428108364",
+      "title": "Nnn",
+      "content": "<p><span style=\"background-color: rgb(102, 185, 102);\">uhbb</span></p>",
+      "plainContent": "uhbb",
+      "date": "2026-04-17T12:15:08.365Z",
+      "dateStr": "17.04.2026 15:15:08"
+    },
     {
       "id": "1776370086090",
       "title": "Neee",
@@ -55,7 +63,7 @@
     {
       "id": "1776356665116",
       "title": "Merhaba",
-      "content": "ZEkÄ° DEVRÄ°M ÃALIÅKAN",
+      "content": "ZEkÃÂ° DEVRÃÂ°M ÃÂALIÃÂKAN",
       "date": "2026-04-16T16:24:25.116Z",
       "dateStr": "16.04.2026 19:24:25"
     }
